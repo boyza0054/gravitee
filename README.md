@@ -1,8 +1,15 @@
 # gravitee
 Test for gravitee.io
 
-# (Optional step: pull to ensure that you are running latest images)
-docker-compose pull
+Get Started
+-----------
 
-# And Run
+#### (Optional step: pull to ensure that you are running latest images)
+```bash
+docker-compose pull
+```
+
+#### And Run
+```bash
 docker-compose up
+```
